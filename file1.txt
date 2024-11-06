@@ -1,4 +1,4 @@
 Hello evening! (from branch master)
 Bye sigma
-Stariy Boh sosal
+Line from user2
 Line from user2
