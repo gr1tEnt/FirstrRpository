@@ -2,3 +2,4 @@ Hello evening! (from branch master)
 Bye sigma
 Line from user2
 Line from user2
+line from user1 - lesson about rebase
